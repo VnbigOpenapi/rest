@@ -1,0 +1,7 @@
+VNBIG 为用户提供了新版api  Java使用示例  示例中包括期货和现货api示例使用。
+使用须知：
+     配置如下(StockClient.java):
+     String api_key = "";  //vnbig唯一用户号,每个用户唯一持有一个
+     String secret_key = "";  //用户私钥
+     String url_prex = "";  //注意：请求URL http://api.vnbig.com	
+如果在使用过程中有任何问题，请联系我们技术讨论QQ群： 774185245，我们将为您做出最权威的解答。
